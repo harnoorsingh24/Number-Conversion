@@ -9,3 +9,4 @@ binary value, octal value and hex value. For this exercise, we will use 16 bits.
 Java’s Integer.toBinaryString(int), Integer.toOctalString(int) or Integer.toHexString(int) in this
 program. In addition, DO NOT look up these methods to see how they are coded in order to use
 that information to help with your solution.
+ 
